@@ -1,111 +1,48 @@
-<!-- ===================== BANNER ===================== -->
-
-<p align="center">
-  <img src="" width="100%"/>
-</p>
-
-<!-- ===================== INTRO ===================== -->
-
-<h1 align="center">Hi 👋, I'm Fahim Uddin Mukim</h1>
-
-<h3 align="center">
-  AI-Driven Web Developer | Computer Science Student
-</h3>
-
-<p align="center">
-  I’m passionate about building modern, scalable and user-friendly web applications.
-</p>
+# Hi 👋, I'm <Fahim Uddin Mukim>  
+### 🔭 I build things with JavaScript, React, and Node.js
 
 ---
 
-## 👨‍💻 About Me
-
-I'm a Computer Science student and an aspiring **AI-Driven Web Developer** from Bangladesh.
-
-I enjoy learning how modern web technologies work and turning ideas into real-world applications. My goal is to become a professional web engineer who can combine **Web Development + AI** to build useful and intelligent digital products.
-
-- 🎓 Currently studying Computer Science Technology
-- 🌱 Currently learning and improving my Web Development skills
-- 💻 Exploring modern JavaScript/TypeScript technologies
-- 🤖 Interested in AI-powered web applications
-- 🧠 Practicing Data Structures & Algorithms
-- 🚀 Building projects to improve my real-world development skills
-- 🎯 Long-term goal: Become a professional AI-Driven Web Engineer
+## 👨💻 About Me  
+I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
+Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack  
 
-<p align="center">
+### **Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,cpp,git,github,vscode" />
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb" />
-</p>
-
----
-
-## 🚀 Currently Exploring
-
-- ⚡ Modern JavaScript & TypeScript
-- ⚛️ React.js
-- ▲ Next.js
-- 🔧 Backend Development
-- 🤖 AI Integration in Web Applications
-- 🧩 Data Structures & Algorithms
+### **Tools & Others**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Connect With Me  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fahim-mukim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fahim-mukim&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahim-mukim&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mukim-dev/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:fahim.u.mukim@gmail.com)
 
 ---
 
-## 🌐 Connect With Me
+## 📊 GitHub Stats  
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/mukim-dev/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.facebook.com/mukim0101">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="mailto:fahim.u.mukim@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+| GitHub Stats | Most Used Languages |
+| :---: | :---: |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fahim-mukim&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahim-mukim&layout=compact&theme=default) |
 
 ---
 
-## 💡 My Development Philosophy
-
-> "Learn → Build → Break → Debug → Improve → Repeat."
-
-I believe the best way to learn programming is by building real projects, solving problems, and continuously improving.
-
----
-
-<p align="center">
-  ⭐ If you find my projects interesting, feel free to explore my repositories!
-</p>
-
-<!-- ===================== FOOTER ===================== -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=100&section=footer"/>
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=Fahim-mukim&style=flat-square)
