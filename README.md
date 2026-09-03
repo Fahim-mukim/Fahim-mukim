@@ -1,17 +1,99 @@
-<h1 align="center">Hi 👋, I'm Fahim Uddin Mukim</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 📫 How to reach me **fahim.u.mukim@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mukim-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mukim-dev/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/mukim0101" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/mukim0101" height="30" width="40" /></a>
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Fahim Uddin Mukim Banner"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahim-mukim&show_icons=true&locale=en&layout=compact" alt="fahim-mukim" /></p>
+<h1 align="center">Hi 👋, I'm Fahim Uddin Mukim</h1>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahim-mukim&" alt="fahim-mukim" /></p>
+<h3 align="center">
+  AI-Driven Web Engineering | Problem Solving | Aspiring Software Engineer
+</h3>
+
+<p align="center">
+  An aspiring software engineer passionate about AI-driven web engineering and problem solving from Bangladesh.
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Computer Science Technology student currently learning **AI-driven web engineering** and exploring modern software development.
+
+I enjoy programming, problem solving, learning how technologies work, and turning ideas into practical solutions. My long-term goal is to become a skilled **Software Engineer** and build intelligent, scalable software that solves real-world problems.
+
+### 🚀 Currently
+
+- 🌱 Learning AI-driven Web Engineering
+- 💻 Exploring modern Web Development technologies
+- 🧠 Practicing Data Structures & Algorithms
+- 🤖 Exploring AI integration in Web Applications
+- 🔨 Building projects to improve my real-world development skills
+
+---
+
+## 🛠️ Skills & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,cpp,git,github,vscode" />
+</p>
+
+
+## 🚀 Currently Exploring
+
+- ⚡ Modern JavaScript & TypeScript
+- 🌐 Web Engineering
+- 🤖 AI Integration in Web Applications
+- 🧩 Data Structures & Algorithms
+- 🔧 Building Real-World Projects
+
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fahim-mukim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fahim-mukim&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahim-mukim&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/mukim-dev/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/mukim0101">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="mailto:fahim.u.mukim@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🎯 My Goal
+
+To become a skilled **Software Engineer** by continuously improving my programming, problem-solving, and software development skills while exploring the possibilities of **AI + Web Engineering**.
+
+---
+
+<p align="center">
+  ⭐ Feel free to explore my repositories and follow my journey!
+</p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=100&section=footer" width="100%"/>
+</p>
+
